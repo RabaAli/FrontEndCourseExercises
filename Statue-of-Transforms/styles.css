@@ -1,0 +1,33 @@
+#a2{
+    transform: translate(0, -120px);
+}
+#b2{
+    transform: translate(0, 120px) rotate(180deg);
+}
+#b3{
+    transform: rotate(180deg);
+}
+#c2{
+    transform: translate(100%, 0);
+}
+#c3{
+    transform: translate(100%, 0);
+}
+#d3{
+    transform: translate(-100%, 0);
+}
+#d4{
+    transform: translate(0, 300%);
+}
+#b4{
+    transform: translate(0, -100%);
+} 
+#a4{
+    transform: translate(100%, -360px);
+}
+#c1{
+    transform: translate(-300%, 100%);
+}
+#c4{
+    transform: translate(100%, 0);
+}
